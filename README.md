@@ -95,6 +95,8 @@
 <img src="https://raw.githubusercontent.com/Unreal-Vikhyat/Unreal-Vikhyat/output/snake.svg" alt="Snake animation" />
 
 ###
+![](https://leetcard.jacoblin.cool/VikhyatSharma?border=0&radius=20)
+
 
 <div align="left">
   <a href="vikhyatsharma137@gmail.com" target="_blank">
@@ -107,7 +109,6 @@
 
 ###
 
-![](https://leetcard.jacoblin.cool/VikhyatSharma?border=0&radius=20)
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Unreal-Vikhyat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
